@@ -1,0 +1,28 @@
+Purpose:
+  Store movies by:
+    - Title
+    - Genre
+    - Release Date
+    - Starring Cast
+  Track Lending
+    - Name of borrower
+    - Date borrowed
+    - Date Returned
+  Sharable wishlist
+  Searchable
+  Bar code scanner
+    - search database
+    - add movies to database
+  Sync across Mac, iPad, and iPhone
+Why:
+   - Available applications are not the best. 
+   - I have a large collection of DVDs and I want to be able to organize them digitaly. 
+   - I also want to be able to keep a list of my movies with me when I am out shopping.
+   - I want to be able share my wishlists with my friends and family
+For:
+  - anyone with a large DVD collection
+Name Ideas:
+  - DVD Inventory
+  - My Movie Database
+  
+  
